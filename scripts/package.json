@@ -1,0 +1,9 @@
+{
+  "name": "investment-ledger-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub Action 用的股價抓取與Alert檢查腳本",
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
