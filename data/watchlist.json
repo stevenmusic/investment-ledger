@@ -1,0 +1,19 @@
+{
+  "_說明": "想觀察但還沒買的股票。targetPrice 是你想被通知的價位，可以放多個（例如分批進場的價位）。",
+  "watchlist": [
+    {
+      "id": "w001",
+      "market": "TW",
+      "ticker": "2317",
+      "name": "鴻海",
+      "targetPrices": [150, 140]
+    },
+    {
+      "id": "w002",
+      "market": "US",
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "targetPrices": [120]
+    }
+  ]
+}
